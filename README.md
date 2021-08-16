@@ -1,3 +1,9 @@
+Wireframe:
+https://github.com/ArpithaNagappa/liftoff-assignments/blob/master/Family%20Organizer_Wireframe_1.pdf
+
+Trello:
+https://trello.com/b/WkmgTjS2/liftoff-project
+
 # Start Here!
 Welcome to Liftoff! We are excited to have you in this course.
 
